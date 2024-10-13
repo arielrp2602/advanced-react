@@ -18,7 +18,7 @@ function App() {
     </SplitScreen>
   );
 }
-  */
+*/
 
 function App() {
   return <div></div>;
